@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Vinicius</h1>
-<h3 align="center">Ingressante na programação back end e buscando por novos conhecimentos</h3>
+<h3 align="center">Atualmente graduando em Análise e Desenvolvimento de Sistemas</h3>
 
-- 🔭 Em busca de novas oportunidades para desenvolver os conhecimentos
+- 🔭 Em busca de novas oportunidades para entrar no mercado de trabalho na área da programação Back-End.
 
 - 🌱 Atualmente estudando **C#** e **.NET**
 
