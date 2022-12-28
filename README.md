@@ -3,7 +3,7 @@
 
 - 💻 Programador Back-End;
 
-- 📚 Atualmente estudando **C#**/**.NET**, PowerBuilder e **SQL**;
+- 📚 Atualmente estudando **C#**/**.NET**, **PowerBuilder** e **SQL**;
 
 - 🔭 Brevemente conhecimentos em **Oracle**;
 
@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> </a> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </p> 
 
 <div><br>
-<img height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=viniccosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="170em" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniccosta&layout=compact&langs_count=7&theme=dark"/>
+<img height="170em" width="300" src="https://github-readme-stats.vercel.app/api?username=viniccosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="170em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniccosta&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div>
