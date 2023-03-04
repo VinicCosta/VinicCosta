@@ -9,7 +9,7 @@
 - 🔭 Colocando em prática os conhecimentos adquiridos.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> </a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://www.techasoft.com/debug/img/oracle.png" alt="Oracle" height="40" style="vertical-align:top; margin:4px"> </p> 
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://www.appeon.com/sites/default/files/2022-07/home/PowerBuilder.svg" alt="powerbuilder" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> </a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> <img src="https://www.techasoft.com/debug/img/oracle.png" alt="Oracle" height="40" style="vertical-align:top; margin:4px"> </p> 
 
 <div><br>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=viniccosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
