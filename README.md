@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor Back-End;
 
-- 📚 Estudando **PowerBuilder**;
+- 📚 Estudando **React**;
 
 - 🔭 Colocando em prática os conhecimentos adquiridos.
 
